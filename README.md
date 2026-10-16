@@ -1,5 +1,8 @@
 # TidyWeb Basic Python
 
+## [🌐 Open the live site: https://tidyweb.github.io/basic_python_freecodecamp/ ↗](https://tidyweb.github.io/basic_python_freecodecamp/)
+
+
 **Thinking Through Your First Python Lab**
 
 TidyWeb Basic Python is a gentle, narrative companion to FreeCodeCamp's
