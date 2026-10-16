@@ -1,6 +1,6 @@
 # TidyWeb Basic Python
 
-## [🌐 Open the live site: https://tidyweb.github.io/basic_python_freecodecamp/ ↗](https://tidyweb.github.io/basic_python_freecodecamp/)
+### [Visit the live site ↗](https://tidyweb.github.io/basic_python_freecodecamp/)
 
 
 **Thinking Through Your First Python Lab**
